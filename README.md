@@ -1,5 +1,5 @@
 # Zenith's OG Fortnite Username Generator
-
+#### New update is being worked on!
 ## About
 
 It's a simple python program that creates an "OG" username using special characters
